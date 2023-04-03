@@ -1,1 +1,1 @@
-but={ <Route path='/' element={Home}/> }
+but= <Route path='/' element={Home}/> 
